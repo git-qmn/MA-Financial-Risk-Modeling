@@ -1,0 +1,5 @@
+font_manager
+matplotlib
+numpy
+numpy_financial
+pandas
