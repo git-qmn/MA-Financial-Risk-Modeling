@@ -11,7 +11,7 @@ This project evaluates a potential M&A (Mergers and Acquisitions) target using t
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/git-qmn/MA-Financial-Risk-Modeling.git
 ```
 2. Install dependencies:
 ```bash
